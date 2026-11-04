@@ -10,7 +10,7 @@
 > *«No separar al programador de la persona.»*  
 > Quienes programamos somos personas completas: nuestra historia vital determina cómo afrontamos las dificultades, cómo diseñamos arquitecturas y qué nos mueve a mejorar cada día.
 
-Hola, soy **José Alberto** (en la comunidad me encontrarás como **`eker`** o **`IsjDev`**). Soy desarrollador de software centrado en **desarrollo Mobile nativo con Kotlin y Kotlin Multiplatform (KMP)** y en arquitecturas **Full-Stack** (Vue 3, Astro 5, TypeScript, Node.js y PostgreSQL).
+Hola, soy **José Alberto** (en la comunidad me encontrarás como **`eker`** o **`jamaeker`**). Soy desarrollador de software centrado en **desarrollo Mobile nativo con Kotlin y Kotlin Multiplatform (KMP)** y en arquitecturas **Full-Stack** (Vue 3, Astro 5, TypeScript, Node.js y PostgreSQL).
 
 En la actualidad, centro gran parte de mi actividad técnica en el **diseño y desarrollo de varios proyectos SaaS**, construyendo plataformas orientadas a resolver necesidades operativas reales con arquitecturas robustas y escalables.
 
@@ -57,7 +57,7 @@ Si quieres conversar sobre arquitectura de **SaaS**, proyectos en **Kotlin/KMP**
 - 🌐 **Web:** [eker.es](https://www.eker.es)
 - ✉️ **Email:** [jama@eker.es](mailto:jama@eker.es)
 - 💼 **LinkedIn:** [José Alberto](https://linkedin.com/in/eker)
-- 🐙 **GitHub:** [@IsjDev](https://github.com/IsjDev)
+- 🐙 **GitHub:** [@jamaeker](https://github.com/jamaeker)
 
 ---
 <sub><i>«Mi hijo Iván y la memoria de Silvia me dieron el motivo para no rendirme nunca.»</i></sub>
