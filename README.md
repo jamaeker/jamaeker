@@ -1,7 +1,7 @@
 # José Alberto · eker 👋
 ### Desarrollador de Software · Kotlin / KMP & Full-Stack · Desarrollo de SaaS
 
-[💼 LinkedIn](https://linkedin.com/in/eker) &nbsp;•&nbsp; [✉️ isj@eker.es](mailto:isj@eker.es)
+[🌐 eker.es](https://www.eker.es) &nbsp;•&nbsp; [💼 LinkedIn](https://linkedin.com/in/eker) &nbsp;•&nbsp; [✉️ jama@eker.es](mailto:jama@eker.es)
 
 ---
 
@@ -14,7 +14,21 @@ Hola, soy **José Alberto** (en la comunidad me encontrarás como **`eker`** o *
 
 En la actualidad, centro gran parte de mi actividad técnica en el **diseño y desarrollo de varios proyectos SaaS**, construyendo plataformas orientadas a resolver necesidades operativas reales con arquitecturas robustas y escalables.
 
+<a href="https://alarmgest.es"><img src="assets/alarmgest_logo_pequeno.svg" width="24" height="24" align="top" alt="Logo de AlarmGest" /></a> [**AlarmGest**](https://alarmgest.es) · Software de gestión para instaladoras de alarmas y CCTV.
+
 Mi dedicación de lleno a la programación nace de una profunda convicción vital: tras varios años de acompañamiento y lucha junto a mi mujer **Silvia** frente al cáncer y su posterior despedida, asumí el mayor reto de mi vida: educar y sacar adelante a nuestro hijo **Iván** como **familia monoparental**. La programación me brindó el rigor intelectual, el foco para resolver problemas complejos y la conciliación necesaria para estar presente en cada etapa del crecimiento de mi hijo.
+
+---
+
+### 🌟 ekerWeb · Código y Vida
+
+Mi proyecto personal en constante evolución es [**ekerWeb**](https://www.eker.es), mi portfolio técnico y diario de vida construido con **Astro 5** y TypeScript.
+
+Nació con el propósito de no separar al profesional de la persona y articular mi presencia en torno a tres grandes pilares:
+
+- 🌱 **Monoparentalidad & Conciliación:** Realidades legales, burocracia, acceso a ayudas y las enormes bondades de educar y compartir cada día junto a Iván.
+- 🕯️ **Cáncer, Experiencia y Memoria:** Vivencias honestas durante la enfermedad de Silvia, acompañamiento y apoyo para otras familias y el recuerdo vivo de sus enseñanzas.
+- 💻 **Código y Aprendizaje:** Decisiones de arquitectura, desarrollo con Kotlin/KMP, proyectos web y reflexiones sobre el oficio de programar.
 
 ---
 
@@ -40,7 +54,8 @@ Mi dedicación de lleno a la programación nace de una profunda convicción vita
 
 Si quieres conversar sobre arquitectura de **SaaS**, proyectos en **Kotlin/KMP**, desarrollo **Full-Stack**, compartir vivencias sobre **monoparentalidad** o charlar sobre desarrollo de software:
 
-- ✉️ **Email:** [isj@eker.es](mailto:isj@eker.es)
+- 🌐 **Web:** [eker.es](https://www.eker.es)
+- ✉️ **Email:** [jama@eker.es](mailto:jama@eker.es)
 - 💼 **LinkedIn:** [José Alberto](https://linkedin.com/in/eker)
 - 🐙 **GitHub:** [@IsjDev](https://github.com/IsjDev)
 
