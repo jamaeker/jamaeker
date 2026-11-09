@@ -1,7 +1,17 @@
-# José Alberto Molina Abellán · eker <🐈‍⬛❤️🐦‍⬛🐦‍🔥/>
+# José Alberto Molina Abellán · eker &nbsp;<a href="https://www.eker.es"><img src="assets/eker_logo.svg" height="28" align="top" alt="Logo eker" /></a>
 ### Desarrollador de Software · Kotlin / KMP & Full-Stack · Creador de AlarmGest y Entreturno
 
-[🌐 eker.es](https://www.eker.es) &nbsp;•&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/josealbertomolina/) &nbsp;•&nbsp; [𝕏 @jamaeker](https://x.com/jamaeker) &nbsp;•&nbsp; [📸 @jama.eker](https://www.instagram.com/jama.eker/) &nbsp;•&nbsp; [✉️ jama@eker.es](mailto:jama@eker.es)
+<p align="left">
+  <a href="https://www.eker.es"><img src="assets/web.svg" width="20" height="20" align="top" alt="Web" />&nbsp;<b>eker.es</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/josealbertomolina/"><img src="assets/linkedin.svg" width="20" height="20" align="top" alt="LinkedIn" />&nbsp;<b>LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://x.com/jamaeker"><img src="assets/x.svg" width="20" height="20" align="top" alt="X" />&nbsp;<b>@jamaeker</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jama.eker/"><img src="assets/instagram.svg" width="20" height="20" align="top" alt="Instagram" />&nbsp;<b>@jama.eker</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:jama@eker.es"><img src="assets/email.svg" width="20" height="20" align="top" alt="Email" />&nbsp;<b>jama@eker.es</b></a>
+</p>
 
 ---
 
@@ -37,7 +47,7 @@ Nacidas directamente de los problemas reales que viví durante una década coord
 
 ### 🌟 ekerWeb · Código y Vida
 
-Mi casa digital es [**ekerWeb (`www.eker.es`)**](https://www.eker.es), mi portfolio técnico y blog personal construido con **Astro 5** y TypeScript, articulado en torno a tres pilares:
+Mi casa digital es <a href="https://www.eker.es"><img src="assets/eker_logo.svg" height="20" align="top" alt="eker" /></a> [**ekerWeb (`www.eker.es`)**](https://www.eker.es), mi portfolio técnico y blog personal construido con **Astro 5** y TypeScript, articulado en torno a tres pilares:
 
 - 🌱 **Familia Monoparental & Conciliación:** Cómo nos organizamos mi hijo y yo en el día a día, realidades legales y administrativas, conciliación y lo bonito de verle crecer estando presente.
 - 🕯️ **El Cáncer de Silvia y su Memoria:** Los tres años de enfermedad de mi mujer, Silvia, contados en primera persona con honestidad y serenidad: lo que vivimos y su recuerdo permanente.
@@ -67,12 +77,12 @@ Mi casa digital es [**ekerWeb (`www.eker.es`)**](https://www.eker.es), mi portfo
 
 Si quieres conversar sobre arquitectura de **SaaS**, proyectos en **Kotlin/KMP**, desarrollo **Full-Stack**, soluciones para **seguridad electrónica y turnos 24/7** o compartir vivencias sobre **monoparentalidad**:
 
-- 🌐 **Web y Blog:** [eker.es](https://www.eker.es)
-- 💼 **LinkedIn:** [José Alberto Molina Abellán](https://www.linkedin.com/in/josealbertomolina/)
-- 𝕏 **X (Twitter):** [@jamaeker](https://x.com/jamaeker)
-- 📸 **Instagram:** [@jama.eker](https://www.instagram.com/jama.eker/)
-- 🐙 **GitHub:** [@jamaeker](https://github.com/jamaeker)
-- ✉️ **Email:** [jama@eker.es](mailto:jama@eker.es)
+- <img src="assets/web.svg" width="18" height="18" align="top" alt="Web" /> **Web y Blog:** [eker.es](https://www.eker.es)
+- <img src="assets/linkedin.svg" width="18" height="18" align="top" alt="LinkedIn" /> **LinkedIn:** [José Alberto Molina Abellán](https://www.linkedin.com/in/josealbertomolina/)
+- <img src="assets/x.svg" width="18" height="18" align="top" alt="X" /> **X (Twitter):** [@jamaeker](https://x.com/jamaeker)
+- <img src="assets/instagram.svg" width="18" height="18" align="top" alt="Instagram" /> **Instagram:** [@jama.eker](https://www.instagram.com/jama.eker/)
+- <img src="assets/github.svg" width="18" height="18" align="top" alt="GitHub" /> **GitHub:** [@jamaeker](https://github.com/jamaeker)
+- <img src="assets/email.svg" width="18" height="18" align="top" alt="Email" /> **Email:** [jama@eker.es](mailto:jama@eker.es)
 
 ---
 <sub><i>«Mi hijo y la memoria de Silvia me dieron el motivo para no rendirme nunca.»</i></sub>

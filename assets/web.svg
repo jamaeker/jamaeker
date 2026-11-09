@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="webGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#312E81"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#webGrad)"/>
+  <circle cx="24" cy="24" r="13" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+  <ellipse cx="24" cy="24" rx="6" ry="13" fill="none" stroke="#FFFFFF" stroke-width="2.2"/>
+  <line x1="11" y1="24" x2="37" y2="24" stroke="#FFFFFF" stroke-width="2.2"/>
+  <path d="M13.5 17.5h21M13.5 30.5h21" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
