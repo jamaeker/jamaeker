@@ -1,5 +1,5 @@
 # José Alberto Molina Abellán · eker &nbsp;<a href="https://www.eker.es"><img src="assets/eker_logo.svg" height="28" align="top" alt="Logo eker" /></a>
-### Desarrollador de Software · Kotlin / KMP & Full-Stack · Creador de AlarmGest y Entreturno
+### Desarrollador de Software · Kotlin / KMP & Full-Stack · Creador de AlarmGest, Entreturno y Biotopo
 
 <p align="left">
   <a href="https://www.eker.es"><img src="assets/web.svg" width="20" height="20" align="top" alt="Web" />&nbsp;<b>eker.es</b></a>
@@ -26,22 +26,15 @@ Mi dedicación de lleno al desarrollo de software nace de una profunda convicci�
 
 ---
 
-### 🚀 Plataformas SaaS Creadas de Principio a Fin
+### 🚀 Proyectos
 
-Nacidas directamente de los problemas reales que viví durante una década coordinando operativa 24/7 en una CRA (lanzamiento oficial: **1 de diciembre de 2026**, con **Modo Demo interactivo abierto sin registro**):
+* <a href="https://alarmgest.es"><img src="assets/alarmgest_logo_pequeno.svg" width="22" height="22" align="top" alt="Logo de AlarmGest" /></a> [**AlarmGest**](https://alarmgest.es) · Software de gestión para instaladoras de alarmas y CCTV, con app móvil para técnicos que funciona sin cobertura *(Web + Android/iOS en KMP)*. 👉 [Demo](https://app.alarmgest.es/login?demo)
 
-* <a href="https://alarmgest.es"><img src="assets/alarmgest_logo_pequeno.svg" width="22" height="22" align="top" alt="Logo de AlarmGest" /></a> [**AlarmGest**](https://alarmgest.es) · **El software de gestión para instaladoras de alarmas y CCTV** *(Web + App Móvil Android/iOS en KMP)*.
-  * Ficha técnica integral por instalación (abonado CRA, Grado 1/2/3, tarjetas SIM M2M con ICCID/IP/APN, zonas, grabadores CCTV y cámaras) imprimible en formato A4 o PDF, con historial inalterable de cambios.
-  * Semáforo proactivo de cambios de batería y revisiones normativas periódicas.
-  * App móvil nativa para técnicos con **modo sin cobertura (offline)**: permite crear o cerrar partes en la instalación con firma del cliente en pantalla y hasta 5 fotos, enviando el PDF al momento, notificando en vivo a la oficina en la web y actualizando la ficha técnica y el stock automáticamente.
-  * 👉 [**Probar Demo interactiva sin registro**](https://app.alarmgest.es/login?demo)
+* <a href="https://entreturno.es"><img src="assets/entreturno_logo_pequeno.svg" width="22" height="22" align="top" alt="Logo de Entreturno" /></a> [**Entreturno**](https://entreturno.es) · El parte de novedades y tareas que sí llega al siguiente turno, en operaciones 24/7. 👉 [Demo](https://app.entreturno.es/login?demo)
 
-* <a href="https://entreturno.es"><img src="assets/entreturno_logo_pequeno.svg" width="22" height="22" align="top" alt="Logo de Entreturno" /></a> [**Entreturno**](https://entreturno.es) · **El parte de novedades y tareas que sí llega al siguiente turno** *(Operaciones 24/7)*.
-  * Tablero de operaciones en vivo pensado para sustituir el caos de los grupos de WhatsApp y el papel en cambios de turno de mañana, tarde y noche.
-  * **Notas fijadas** siempre visibles arriba y **avisos temporales con fecha y hora de fin** que desaparecen solos del tablero activo al caducar.
-  * **Gestor de tareas asignadas a usuarios concretos** con importancia, fecha límite, **aviso inmediato en pantalla** al destinatario y **cierre desde el móvil con comentario y foto**.
-  * Grupos de trabajo por servicio/sede, roles asegurados en base de datos y **bitácora de auditoría inalterable** en PostgreSQL para notas y tareas.
-  * 👉 [**Probar Demo interactiva sin registro**](https://app.entreturno.es/login?demo)
+* <a href="https://biotopo.tech"><img src="assets/biotopo_logo_pequeno.svg" width="22" height="22" align="top" alt="Logo de Biotopo" /></a> [**Biotopo**](https://biotopo.tech) · Cuaderno de campo para acuarios, terrarios y hormigueros: habitantes, parámetros y recordatorios de cuidados *(Android/iOS en KMP)*.
+
+AlarmGest y Entreturno nacen de mis años en una CRA y se lanzan oficialmente el **1 de diciembre de 2026**.
 
 ---
 
