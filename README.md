@@ -34,8 +34,6 @@ Mi dedicación de lleno al desarrollo de software nace de una profunda convicci�
 
 * <a href="https://biotopo.tech"><img src="assets/biotopo_logo_pequeno.svg" width="22" height="22" align="top" alt="Logo de Biotopo" /></a> [**Biotopo**](https://biotopo.tech) · Cuaderno de campo para acuarios, terrarios y hormigueros: habitantes, parámetros y recordatorios de cuidados *(Android/iOS en KMP)*.
 
-AlarmGest y Entreturno nacen de mis años en una CRA y se lanzan oficialmente el **1 de diciembre de 2026**.
-
 ---
 
 ### 🌟 ekerWeb · Código y Vida
